@@ -19,6 +19,7 @@
     {"name":"MainChar","order":42,"path":"folders/Sprites/MainChar.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"GUI","order":44,"path":"folders/Sprites/GUI.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Shooting","order":18,"path":"sprites/Shooting/Shooting.yy",},
@@ -29,5 +30,6 @@
     {"name":"SwingSword","order":22,"path":"sprites/SwingSword/SwingSword.yy",},
     {"name":"Change","order":19,"path":"sprites/Change/Change.yy",},
     {"name":"Shooting2","order":20,"path":"sprites/Shooting2/Shooting2.yy",},
+    {"name":"PhaseSystem","order":3,"path":"objects/PhaseSystem/PhaseSystem.yy",},
   ],
 }
