@@ -16,10 +16,10 @@
     {"name":"Sounds","order":3,"path":"folders/Sounds.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"BackRunner","order":43,"path":"folders/Sprites/BackRunner.yy",},
+    {"name":"GUI","order":44,"path":"folders/Sprites/GUI.yy",},
     {"name":"MainChar","order":42,"path":"folders/Sprites/MainChar.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
-    {"name":"GUI","order":44,"path":"folders/Sprites/GUI.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Shooting","order":18,"path":"sprites/Shooting/Shooting.yy",},

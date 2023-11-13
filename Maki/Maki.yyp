@@ -27,10 +27,10 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/Sounds.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"BackRunner","folderPath":"folders/Sprites/BackRunner.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GUI","folderPath":"folders/Sprites/GUI.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"MainChar","folderPath":"folders/Sprites/MainChar.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"GUI","folderPath":"folders/Sprites/GUI.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Change_1.png","CopyToMask":-1,"filePath":"datafiles/Main Character",},
