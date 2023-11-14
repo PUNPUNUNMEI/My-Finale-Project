@@ -17,7 +17,6 @@ if keyboard_check(ord("Z")) and phase_lvl = 2 {
 	image_index = 0;
 }
 
-
 else;
 
 
