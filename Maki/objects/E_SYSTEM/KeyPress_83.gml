@@ -1,1 +1,0 @@
-instance_create_layer(random_range(500, 1200), random_range(0, 720), "MainScreen", CROWS);
