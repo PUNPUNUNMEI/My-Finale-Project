@@ -23,6 +23,8 @@
     {"name":"MainChar","order":42,"path":"folders/Sprites/MainChar.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"STAGE1","order":2,"path":"folders/Objects/Enemy/STAGE1.yy",},
+    {"name":"STAGE1","order":1,"path":"folders/Sprites/Enemy/STAGE1.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Sprite6","order":23,"path":"sprites/Sprite6/Sprite6.yy",},
@@ -30,6 +32,7 @@
     {"name":"Bullet","order":3,"path":"objects/Bullet/Bullet.yy",},
     {"name":"Ide","order":16,"path":"sprites/Ide/Ide.yy",},
     {"name":"SwingSword","order":22,"path":"sprites/SwingSword/SwingSword.yy",},
+    {"name":"E_SYSTEM","order":1,"path":"objects/E_SYSTEM/E_SYSTEM.yy",},
     {"name":"PhaseSystem","order":1,"path":"objects/PhaseSystem/PhaseSystem.yy",},
   ],
 }
