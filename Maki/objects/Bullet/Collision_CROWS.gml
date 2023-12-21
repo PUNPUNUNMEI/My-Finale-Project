@@ -1,2 +1,2 @@
-instance_destroy(other, true)
+instance_destroy(Bullet.id, true)
 
