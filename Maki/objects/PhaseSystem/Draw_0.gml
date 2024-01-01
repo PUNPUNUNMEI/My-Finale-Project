@@ -3,6 +3,7 @@ draw_set_valign(fa_middle);
 draw_set_font(Phase);
 draw_set_color(c_white);
 draw_text(x, y, "Phase " + string(phase_lvl));
+draw_text(x, y + 60, "Rng" + string(STAGE));
 
 
 

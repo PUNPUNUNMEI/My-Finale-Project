@@ -3,6 +3,7 @@ if instance_exists(KingMos) {
 }
 
 if x == -100 {
-	instance_destroy(other, true);
+	instance_destroy(KingMos.id, true);
 }
+
 

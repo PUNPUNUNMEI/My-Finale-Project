@@ -1,0 +1,1 @@
+instance_destroy(ghost2223.id, true)

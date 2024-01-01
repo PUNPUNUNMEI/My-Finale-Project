@@ -1,2 +1,2 @@
-image_xscale = 7
-image_yscale = 7
+image_xscale = 3
+image_yscale = 3

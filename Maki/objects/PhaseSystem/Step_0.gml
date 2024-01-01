@@ -1,13 +1,12 @@
 timer++;
 
-if timer == 2500 {
+if timer == 3000 {
 	phase_lvl++;
+	STAGE = int64(random_range(1, 5));
 	timer = 0;
 }
 
-if phase_lvl % 6 = 0 {
-	STAGE = random_range(1, 6);
-}
+
 
 
 
