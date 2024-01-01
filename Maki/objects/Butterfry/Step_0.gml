@@ -1,6 +1,6 @@
-timer++
+timer++;
 
-if timer == 250  {
-	instance_create_layer(Butterfry.x, Butterfry.y, "MainScreen", B);
+if timer >= 1000 / phase_lvl {
+	instance_create_layer(Butterfry.id.x, Butterfry.id.y, "MainScreen", B);
 	timer = 0;
 }

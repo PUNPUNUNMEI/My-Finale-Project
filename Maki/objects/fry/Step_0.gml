@@ -1,0 +1,1 @@
+move_towards_point(MainChar.x + 10, MainChar.y + 10, 3 * PhaseSystem.phase_lvl);

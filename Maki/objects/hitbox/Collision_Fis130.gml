@@ -1,0 +1,1 @@
+instance_destroy(Fis130.id, true)

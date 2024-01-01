@@ -1,0 +1,1 @@
+instance_destroy(BigFish.id, true)

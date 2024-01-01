@@ -1,0 +1,1 @@
+instance_destroy(eag.id, true)
