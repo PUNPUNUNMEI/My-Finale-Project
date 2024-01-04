@@ -1,6 +1,6 @@
 timer++;
 
-move_towards_point(MainChar.x + 10, MainChar.y + 10, 1 * phase_lvl);
+move_towards_point(MainChar.x + 10, MainChar.y + 10, 1 * PhaseSystem.phase_lvl);
 
 
 if timer == 250 / phase_lvl  {
