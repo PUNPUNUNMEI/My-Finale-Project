@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "UI",
-    "path": "folders/Objects/MainChar/UI.yy",
+    "name": "UI purpose",
+    "path": "folders/Objects/UI purpose.yy",
   },
   "parentObjectId": null,
   "persistent": false,
