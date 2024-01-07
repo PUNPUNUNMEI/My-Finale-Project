@@ -1,1 +1,8 @@
-instance_destroy(ghost2223.id, true)
+MainChar.bullet += 1
+ScoreUI.Score += 25
+/// @description Insert description here
+// You can write your code in this editor
+
+
+
+

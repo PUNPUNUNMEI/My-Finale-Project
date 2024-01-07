@@ -1,1 +1,5 @@
-instance_destroy(Butterfry.id, true)
+MainChar.bullet += 1
+ScoreUI.Score += 15
+
+
+

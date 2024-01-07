@@ -3,5 +3,5 @@ if instance_exists(CROWS) {
 }
 
 if x == -150 {
-	instance_destroy(CROWS.id, true);
+	instance_destroy(self.id, true);
 }

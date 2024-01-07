@@ -1,1 +1,2 @@
-instance_destroy(CROWS.id, true)
+MainChar.bullet += 2
+ScoreUI.Score += 19

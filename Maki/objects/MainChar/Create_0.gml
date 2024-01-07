@@ -1,5 +1,5 @@
 spd = 15;
-bullet = 100;
+bullet = 0;
 
 
 

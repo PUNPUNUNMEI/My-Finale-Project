@@ -1,1 +1,2 @@
-instance_destroy(FA.id, true)
+MainChar.bullet += 3
+ScoreUI.Score += 15

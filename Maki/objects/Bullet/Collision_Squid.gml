@@ -1,2 +1,2 @@
-instance_destroy(Bullet.id, true)
-instance_destroy(Squid.id, true)
+instance_destroy(self.id, true)
+ScoreUI.Score += 3

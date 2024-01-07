@@ -4,7 +4,7 @@ if timer == 1000 {
 	timer = 0;
 }
 
-if timer % 200 * PhaseSystem.phase_lvl == 0 {
+if timer % 100 * PhaseSystem.phase_lvl == 0 {
 	switch(PhaseSystem.STAGE) {
 		case 1:
 			instance_create_layer(2000, random_range(0, 720), "MainScreen", Butterfry);

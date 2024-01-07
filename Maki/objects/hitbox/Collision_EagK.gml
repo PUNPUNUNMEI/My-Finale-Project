@@ -1,1 +1,2 @@
-instance_destroy(EagK.id, true)
+MainChar.bullet += 10
+ScoreUI.Score += 45

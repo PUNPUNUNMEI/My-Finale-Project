@@ -3,7 +3,7 @@ if instance_exists(EagK) {
 }
 
 if x == -100 {
-	instance_destroy(EagK.id, true);
+	instance_destroy(self.id, true);
 }
 
 

@@ -1,3 +1,3 @@
-if x = 1000 {
-	instance_destroy(FA.id, true);
+if y = 1000 {
+	instance_destroy(self.id, true);
 }

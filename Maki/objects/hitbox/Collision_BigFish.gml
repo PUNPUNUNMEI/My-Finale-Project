@@ -1,1 +1,2 @@
-instance_destroy(BigFish.id, true)
+MainChar.bullet += 5
+ScoreUI.Score += 37

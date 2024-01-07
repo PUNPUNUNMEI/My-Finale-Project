@@ -1,6 +1,7 @@
 timer = 0;
 x = xprevious;
 y = yprevious;
-phase_lvl = 1;
+phaselvl_step = 1;
+phase_lvl = phaselvl_step / 1.5;
 STAGE = 1;
 

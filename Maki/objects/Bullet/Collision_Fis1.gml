@@ -1,3 +1,2 @@
-instance_destroy(Bullet.id, true)
-instance_destroy(Fis1.id, true)
-
+instance_destroy(self.id, true)
+ScoreUI.Score += 10

@@ -1,2 +1,2 @@
-instance_destroy(Bullet.id , true)
-instance_destroy(KingMos.id, true)
+instance_destroy(self.id, true)
+ScoreUI.Score += 40

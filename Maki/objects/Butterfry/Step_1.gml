@@ -3,6 +3,6 @@ if instance_exists(Butterfry) {
 }
 
 if x == -200 {
-	instance_destroy(Butterfry.id, true);
+	instance_destroy(self.id, true);
 }
 

@@ -1,1 +1,8 @@
-instance_destroy(fry.id, true)
+MainChar.bullet += 1
+ScoreUI.Score += 15
+/// @description Insert description here
+// You can write your code in this editor
+
+
+
+

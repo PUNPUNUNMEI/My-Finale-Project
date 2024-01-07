@@ -1,10 +1,5 @@
-draw_set_halign(fa_center);
-draw_set_valign(fa_middle);
-draw_set_font(Phase);
-draw_set_color(c_white);
-draw_text(x, y, "Phase " + string(phase_lvl));
-draw_text(x, y + 60, "Rng" + string(STAGE));
-
+scribble_font_set_default("Phase");
+draw_text_scribble(x,y,"[rainbow]Phase [/rainbow]" + string(phaselvl_step));
 
 
 

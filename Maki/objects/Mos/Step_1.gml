@@ -3,6 +3,6 @@ if instance_exists(Mos) {
 }
 
 if x == -100 {
-	instance_destroy(Mos.id, true);
+	instance_destroy(self.id, true);
 }
 
