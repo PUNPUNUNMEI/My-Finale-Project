@@ -1,0 +1,2 @@
+scribble("[rainbow]Game Over[rainbow/]").transform(5,5).draw(x,y);
+scribble("[rainbow]Your score is " + string(score) + " Please tap ESC to restart the game [rainbow/]").transform(1,1).draw(x,y + 340);

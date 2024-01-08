@@ -1,5 +1,5 @@
 scribble_font_set_default("Phase");
-draw_text_scribble(x,y,"[rainbow]Phase [/rainbow]" + string(phaselvl_step));
+scribble("[rainbow][wave]Phase [/rainbow][wave]" + string(phaselvl_step)).blend(#FFFFFF,0.5).draw(x,y);
 
 
 
