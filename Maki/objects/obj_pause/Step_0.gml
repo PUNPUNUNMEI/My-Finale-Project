@@ -115,7 +115,7 @@ if ( pause ){
 				room_restart();
 			break;
 			case 2: // MainMenus
-				room_goto(Menu);
+				room_goto(rmMenu);
 				alarm[0]	= room_speed* 0.1; //resume timer 
 			break;
 			case 3: // Exit

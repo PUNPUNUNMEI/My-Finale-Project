@@ -5,6 +5,7 @@ if keyboard_check(vk_shift) {
 if keyboard_check_pressed(ord("Z")) and bullet != 0 {
 	instance_create_layer(x + 0, y + -10, "MainScreen", Bullet);
 	bullet -= 1;
+	audio_play_sound(sndSoundSample, 0, false);
 	sprite_index = Shooting;
 	image_index = 0;
 }
