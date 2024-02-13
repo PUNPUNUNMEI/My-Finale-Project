@@ -4,7 +4,7 @@ if timer == 1000 {
 	timer = 0;
 }
 
-if timer % 100 * PhaseSystem.phase_lvl == 0 {
+if timer % 200 * PhaseSystem.phase_lvl == 0 {
 	switch(PhaseSystem.STAGE) {
 		case 1:
 			instance_create_layer(2000, random_range(0, 720), "MainScreen", Butterfry);
@@ -19,15 +19,15 @@ if timer % 100 * PhaseSystem.phase_lvl == 0 {
 			instance_create_layer(2000, random_range(0, 720), "MainScreen", HF);
 		break;
 		case 3:
-			instance_create_layer(-2000, random_range(0, 720), "MainScreen", EEK);
-			instance_create_layer(-2000, random_range(0, 720), "MainScreen", ghost);
-			instance_create_layer(-2000, random_range(0, 720), "MainScreen", ghost22);
-			instance_create_layer(-2000, random_range(0, 720), "MainScreen", ghost2223);
+			instance_create_layer(2000, random_range(0, 720), "MainScreen", EEK);
+			instance_create_layer(2000, random_range(0, 720), "MainScreen", ghost);
+			instance_create_layer(2000, random_range(0, 720), "MainScreen", ghost22);
+			instance_create_layer(2000, random_range(0, 720), "MainScreen", ghost2223);
 		break;
 		case 4:
-			instance_create_layer(random_range(1000, 2000), -50, "MainScreen", fruit1);
-			instance_create_layer(random_range(1000, 2000), -50, "MainScreen", fruit125);
-			instance_create_layer(random_range(1000, 2000), -50, "MainScreen", fruit12526);
+			instance_create_layer(random_range(-2000, 2000), -50, "MainScreen", fruit1);
+			instance_create_layer(random_range(-2000, 2000), -50, "MainScreen", fruit125);
+			instance_create_layer(random_range(-2000, 2000), -50, "MainScreen", fruit12526);
 			instance_create_layer(2000, random_range(0, 720), "MainScreen", FryK);
 		break;
 		case 5:
